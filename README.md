@@ -21,4 +21,11 @@ Dimensionality Reduction: PCA to reduce data complexity while retaining importan
 Visualization: Cluster distributions and key patterns visualized using Matplotlib and Seaborn.
 
 Insights: Identify customer groups such as high-spenders, frequent buyers, or budget-conscious customers.
+
+
+Mall Customer Data : https://github.com/KhushiNyati/Customer_Segmentation_Analysis/blob/main/Mall_Customers.csv
+
+Customer Segmentation Analysis : https://github.com/KhushiNyati/Customer_Segmentation_Analysis/blob/main/Customer_Segmentation_Analysis.ipynb
+
+
  
